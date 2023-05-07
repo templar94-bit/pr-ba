@@ -1,1 +1,1 @@
-i = input('Milyen kígyó ')
+i = input('Milyen kígyó nagy ')
